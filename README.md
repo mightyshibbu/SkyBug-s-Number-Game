@@ -1,6 +1,6 @@
 # 🚀 SkyBug-2024
 
-This repository contains projects completed during my tenure with SkyBug Technologies from December 2023 to January 2024.
+This repository contains projects completed during my tenure with SkyBug Technologies from December 2020 to January 2021.
 
 ## Projects Overview
 
